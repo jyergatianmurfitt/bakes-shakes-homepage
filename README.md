@@ -8,6 +8,7 @@ The purpose of building this homepage was to create a responsive, dynamic templa
 <b>Built with</b>
 - [HTML]
 - [Bootstrap]
+- [CSS]
 
 ## Installation
 To install this project simply click the green 'Code' button and download the ZIP file. Save the file to your desired directory and edit the contents in your favourite text editor. 
